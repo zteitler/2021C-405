@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Math 405/505, Fall 2021
+title: Math 405-505, Fall 2021
 coursename: Abstract Algebra
 featureimage: 4lines.png
 featureimage-alt: >
