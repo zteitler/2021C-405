@@ -114,11 +114,10 @@ or if there's anything you think I should know.
 | Monday | 8/23 | First day of classes | 
 | Monday | 9/3  | Last day to register/add or to drop without a W |
 | Monday | 9/6  | Labor Day. No classes. |
-| Monday | 2/15 | Presidents' Day. No classes. |
 | Friday | 10/29 | Last day to drop with a W or completely withdraw |
 |        | 11/22-28 | Thanksgiving Holiday. No classes. |
 | Friday | 12/10 | Last day of instruction for regular classes |
-| Wednesday | 12/13 | Final Exam, 12:00 p.m.-2:00 p.m. |
+| Wednesday | 12/15 | Final Exam, 12:00 p.m.-2:00 p.m. |
 | Tuesday | 12/21 | Grades due. (You will be able to see your grade by this date.) |
 
 
