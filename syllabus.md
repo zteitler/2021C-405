@@ -139,7 +139,7 @@ This can be viewed from all three perspectives of our course:
 
 Algebra:
 : A system of equations is an algebraic thing, and can be approached
-  by algebraic ideas such as manipulating and combining equations
+  by algebraic ideas such as manipulating and combining equations.
 
 Geometry:
 : Each linear equation defines a line or plane (or analogous object in higher dimensions).
@@ -204,8 +204,8 @@ By the end of this course, students will be able to:
 
 ### Components of course grade
 
-The course grade will be based on written homework, a term paper,
-and a final exam.
+The course grade will be based on written homework,
+midterm and final exams, and a term paper.
 
 ### Homework
 
@@ -254,9 +254,18 @@ and included in your document with commands like `\includegraphics`.
 It's also fine to include hand-drawn figures that you scanned or photoed.
 
 
+### Midterm and final exams
+
+A midterm exam in the 8th week of the semester,
+and the final exam, will be individual oral exams.
+The exams are intended to gauge mastery of course material,
+as well as reflection on the course and its place in a larger context.
+
+
+
 ### Term Paper
 
-Each student will write a term paper (6–15 pages)
+Each student will write a term paper
 about a topic of the student's choice within algebra or algebraic geometry.
 
 1. An initial topic proposal (1-2 pages) is due by the end of week 4.
@@ -273,9 +282,7 @@ including in particular tutorials from the books by Kreuzer and Robbiano
 (mentioned at the end of Appendix D).
 
 
-### Final Exam
 
-Take-home, written, individual exam.
 
 
 ### Attendance
@@ -287,11 +294,11 @@ On the other hand it is *highly recommended*.
 Attending class has many benefits such as:
 
 + Opportunities to ask questions and get immediate feedback
-  (and then, ask followup questions)
+  (and then, ask followup questions).
 
-+ Establish relationships with other students and with the instructor
-  (might be helpful in case you decide to look for a study group,
-  or research opportunities or a letter of recommendation)
++ Establish relationships with other students and with the instructor,
+  which will be helpful in case you decide to look for a study group,
+  research opportunities, or a letter of recommendation.
 
 
 
@@ -316,6 +323,27 @@ of the correctness of the computation.
 
 
 ## Help
+
+### Student times
+
+I am here to support your learning.
+I encourage you to meet with me when you feel that you need support or assistance.
+
+In Fall 2021 I will be available:
+
+**Student drop-in hours:**
+: Thursdays 10:30am-12:30pm
+
+**Student appointment hour:**
+: Thursdays 12:30pm-1:30pm (email me to set up an appointment within this hour in 15-minute segments)
+
+**Additional appointments:**
+: Email me to set up an appointment on other days or times
+
+Student times will be remote via Zoom
+using my **office zoom link** (listed in Canvas, or email me for the link).
+
+
 
 ### Allowed resources
 

@@ -13,14 +13,16 @@ featureimage-attrib: >
 ---
 
 ### Course description
-Topics in group theory, ring theory and field theory
-with emphasis on finite and solvable groups, polynomials and factorization,
-extensions of fields.
+
+An introduction to computational algebra and algebraic geometry,
+focusing on ideals and Gröbner bases, affine varieties, and algorithms for computing with them.
 
 
 ### [Syllabus](syllabus)
 
 ### [Calendar](calendar)
+
+### [Assignments](assignments)
 
 ### [WeBWorK](https://zeno.boisestate.edu/webwork2/)
 

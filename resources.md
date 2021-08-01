@@ -11,25 +11,32 @@ mathjax: true
 
 Class textbook:
 
-1.  *Ideals, Varieties, and Algorithms*
+1.  [*Ideals, Varieties, and Algorithms*](https://dacox.people.amherst.edu/iva.html)
     by David A. Cox, John B. Little, Donal O'Shea,
     Fourth Edition, 2015
-    <https://dacox.people.amherst.edu/iva.html>
 
 ### Additional books
 
-2.  *Invitation to Nonlinear Algebra*
+2.  [*Invitation to Nonlinear Algebra*](https://www.math.uni-konstanz.de/~michalek/book.html)
     by Mateusz Michałek and Bernd Sturmfels, 2020
-    <https://www.math.uni-konstanz.de/~michalek/book.html>
 
-3.  *Introduction to Algebraic Geometry*
+3.  [*Introduction to Algebraic Geometry*](https://www.cambridge.org/us/academic/subjects/mathematics/geometry-and-topology/introduction-algebraic-geometry?format=AR)
     by Brendan Hassett, 2016
-    <https://www.cambridge.org/us/academic/subjects/mathematics/geometry-and-topology/introduction-algebraic-geometry?format=AR>
+
+    Advanced abstract algebra:
 
 4.  [Rings With Inquiry](https://ringswithinquiry.org/), by Michael Janssen and Melissa Lindsey
 5.  [Commutative Algebra](https://www.ams.org/open-math-notes/omn-view-listing?listingId=110823), by Andrea Ferretti
 6.  [Abstract Algebra: Theory and Applications](http://abstract.pugetsound.edu/aata), by Thomas Judson
+7.  [*Abstract Algebra*](https://www.wiley.com/en-us/Abstract+Algebra%2C+3rd+Edition-p-9780471433347)
+    by David S. Dummit and Richard M. Foote
 
+    Basic abstract algebra:
+
+8.  [*Contemporary Abstract Algebra*](https://www.routledge.com/Contemporary-Abstract-Algebra/Gallian/p/book/9780367651787)
+    by Joseph Gallian
+9.  [*A First Course in Abstract Algebra*](https://www.pearson.com/us/higher-education/program/Fraleigh-Pearson-e-Text-First-Course-in-Abstract-Algebra-A-Access-Card-8th-Edition/PGM282304.html)
+    by John B. Fraleigh
 
 ## Videos
 
