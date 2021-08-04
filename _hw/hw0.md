@@ -80,6 +80,9 @@ and using WebWork.
 4.  Read [Self-Explanation Training for Mathematics Students](
     https://www.lboro.ac.uk/media/media/schoolanddepartments/mathematics-education-centre/downloads/research/SE-booklet.pdf).
     Write a self-explanation of Practice Proof 1.
+    
+    If you've already written a self-explanation of Practice Proof 1 (e.g., in one of my previous classes)
+    then write a self-explanation of Practice Proof 2.
 
 
 5.  (About yourself) Answer the questions. This will not be graded for correctness.
