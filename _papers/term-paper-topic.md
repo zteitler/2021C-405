@@ -52,7 +52,9 @@ If you don't know where to start, some suggestions include:
 + Using algebra to solve graph coloring problems, sudoku,
   and other puzzles (e.g., [chessboard puzzles](https://arxiv.org/abs/math/0504113))
 + Eigenvalues of tensors
-+ 
++ The game SET, the cap set conjecture, and the polynomial method
++ Symmetric polynomials
++ Fibonacci polynomials
 
 If you're able to attend some [TATERS](https://sites.google.com/boisestate.edu/taters/)
 talks, you might learn about some very exciting topics from our visiting speakers.
