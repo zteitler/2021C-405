@@ -43,8 +43,6 @@ You may not write a paper about your own research unless you discuss it with me 
 
 
 
-
-
 You are invited to freely select a topic of your own choice.
 Choose something you are interested in, something that excites you!
 If you don't know where to start, some suggestions include:
@@ -55,9 +53,15 @@ If you don't know where to start, some suggestions include:
 + The game SET, the cap set conjecture, and the polynomial method
 + Symmetric polynomials
 + Fibonacci polynomials
++ Algebraic games: [A game on Noetherian rings](https://mathoverflow.net/questions/93276/a-game-on-noetherian-rings),
+  [A game based on the Euclidean algorithm](https://mathoverflow.net/questions/401753/a-game-based-on-the-euclidean-algorithm)
+  (can you design a polynomial version?)
 
 If you're able to attend some [TATERS](https://sites.google.com/boisestate.edu/taters/)
 talks, you might learn about some very exciting topics from our visiting speakers.
+
+There are also some excellent topics in the course textbook and other recommended sources,
+see below.
 
 ## Sources
 
@@ -100,13 +104,14 @@ you will have to explore sources to find ones that are right for you,
 and find ways to "make the topic your own"---learn from multiple sources,
 but then explain the topic in your own words.
 
-Importantly, you will have to choose a narrow slice of your topic to focus on.
-Don't try to tell the whole story of a major subject;
-choose one or two interesting examples and theorems.
+Importantly, **you will have to choose a narrow slice of your topic** to focus on.
+**Don't** try to tell the whole story of a major subject;
+instead, choose **one or two** interesting examples and theorems.
 To write about an interesting but difficult theorem,
-skip over part of the proof, or focus on a simpler special case
-(e.g., give the proof only for 1 or 2 variables, only for continuous functions, etc.),
+skip over part of the proof, or focus on a **simpler special case**,
 or just roughly sketch the proof but instead give a detailed workthrough of an example.
+For instance, give the proof only for 1 or 2 variables, only for continuous functions,
+only for monomial ideals, or for some nice family of rings instead of for all rings.
 Find the right balance where you can tell a story that's still interesting,
 but simple enough for beginning students to understand, within a 6-15 page scope.
 
