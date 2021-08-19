@@ -76,14 +76,14 @@ and using WebWork.
         (That is, $$i^2=-1$$. So we also have $$i^3=-i$$ and $$i^4=1$$.)
 
 
-
+{% comment %}
 4.  Read [Self-Explanation Training for Mathematics Students](
     https://www.lboro.ac.uk/media/media/schoolanddepartments/mathematics-education-centre/downloads/research/SE-booklet.pdf).
     Write a self-explanation of Practice Proof 1.
     
     If you've already written a self-explanation of Practice Proof 1 (e.g., in one of my previous classes)
     then write a self-explanation of Practice Proof 2.
-
+{% endcomment %}
 
 5.  (About yourself) Answer the questions. This will not be graded for correctness.
     The goal is just to tell me a little bit about yourself
@@ -104,6 +104,15 @@ and using WebWork.
     \end{enumerate}
     \end{exer}
     ```
+
++   Visit [WeBWork](https://calculus.boisestate.edu/webwork2).
+    Log in to the Math 405 class (it's also for Math 505 students).
+    Your username is your Boise State username (the part in front of @ in your email address).
+    Your password is your 9-digit Boise State ID number.
+    Complete the "WebWorkIntro" assignment within WebWork.
+    (You don't have to turn in anything for this.)
+
+
 
 ## Instructions
 
