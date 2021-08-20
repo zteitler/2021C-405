@@ -104,6 +104,12 @@ and using WebWork.
     \end{enumerate}
     \end{exer}
     ```
+    
+    **NOTE:** Please be aware that your answers will be viewed by the homework grader.
+    They will be treated confidentially.
+    However if you have anything sensitive that you want to communicate to me privately,
+    then you might want to send that to me in an email
+    or schedule an appointment to talk with me one-on-one.
 
 +   Visit [WeBWork](https://calculus.boisestate.edu/webwork2).
     Log in to the Math 405 class (it's also for Math 505 students).
