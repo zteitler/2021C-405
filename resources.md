@@ -72,6 +72,8 @@ We will also use [Zoom](https://boisestate.zoom.us) (Zoom meeting link posted in
 
 4.  [Getting to Grips with LaTeX](https://www.andy-roberts.net/writing/latex)
 
-<!-- 5.  [How to Bibliography](https://zteitler.github.io/assets/how-to-bibliography.pdf) -->
+{% comment %}
+5.  [How to Bibliography](https://zteitler.github.io/assets/how-to-bibliography.pdf)
+{% endcomment %}
 
 6.  [Detexify](https://detexify.kirelabs.org/classify.html)

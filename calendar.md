@@ -7,7 +7,7 @@ title: Calendar
 
 | Date | Topic | Section | Notes | Due |
 | :--- | :--- | :--- | :--- |
-| Wednesday, August 25 | Intro to course. What is algebra? What is this course about? | |
+| Wednesday, August 25 | Intro to course. What is algebra? What is this course about? | | [Aug 25](https://drive.google.com/file/d/1-2Bsl5FBw7tsjLX3isTO9hgt8hH-WknH/view?usp=sharing) | |
 | Friday, August 27 | Guest speaker: David Cox | |
 | Monday, August 30 | | | | Homework 0 |
 | ---
@@ -25,7 +25,7 @@ title: Calendar
 | Wednesday, September 22 | Computer Algebra Systems |
 | Friday, September 24 | Monomial Ideals and Dickson's Lemma | 2.4 |
 | ---
-| Wednesday, September 29 | Hilbert Basis Theorem | 2.5 |
+| Wednesday, September 29 | Hilbert Basis Theorem | 2.5 | |
 | Friday, October 1 | Properties of Gröbner Bases | 2.6 | | Term paper outline |
 | ---
 | Wednesday, October 6 | Buchberger's Algorithm | 2.7 |
