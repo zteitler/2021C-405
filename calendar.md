@@ -11,7 +11,7 @@ title: Calendar
 | Friday, August 27 | Guest speaker: David Cox | |
 | Monday, August 30 | | | | Homework 0 |
 | ---
-| Wednesday, September 1 | Polynomials and Affine Space. Affine Varieties | 1.1-2 |
+| Wednesday, September 1 | Polynomials and Affine Space. Affine Varieties | 1.1-2 | [Sept 1](https://drive.google.com/file/d/1xq_VqrRuH6qFU4GoK0dd4leZceI1-MIn/view?usp=sharing) | |
 | Friday, September 3 | Parametrizations of Affine Varieties | 1.3 |
 | ---
 | Monday, September 6 | Labor Day. No class |
