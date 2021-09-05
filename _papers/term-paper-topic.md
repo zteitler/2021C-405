@@ -67,7 +67,7 @@ You are invited to freely select a topic of your own choice.
 Choose something you are interested in, something that excites you!
 If you don't know where to start, some suggestions include:
 + Bezout's theorem and Cayley-Bacharach theorem
-+ Faugere's algorithms for Gröbner bases
++ Faugere's algorithms for Gr√∂bner bases
 + Using algebra to solve graph coloring problems, sudoku,
   and other puzzles (e.g., [chessboard puzzles](https://arxiv.org/abs/math/0504113))
 + Eigenvalues of tensors
