@@ -11,12 +11,12 @@ title: Calendar
 | Friday, August 27 | Guest speaker: David Cox | |
 | Monday, August 30 | | | | Homework 0 |
 | ---
-| Wednesday, September 1 | Polynomials and Affine Space. Affine Varieties | 1.1-2 | [Sept 1](https://drive.google.com/file/d/1xq_VqrRuH6qFU4GoK0dd4leZceI1-MIn/view?usp=sharing) | |
-| Friday, September 3 | Parametrizations of Affine Varieties | 1.3 | [Sept 3](https://drive.google.com/file/d/1-2gnRJH4Glv9IHicoyL89lm_oWPyrbmv/view?usp=sharing) | |
+| Wednesday, September 1 | Polynomials and Affine Space | 1.1 | [Sept 1](https://drive.google.com/file/d/1xq_VqrRuH6qFU4GoK0dd4leZceI1-MIn/view?usp=sharing) | |
+| Friday, September 3 | Affine Varieties.  | 1.2 | [Sept 3](https://drive.google.com/file/d/1-2gnRJH4Glv9IHicoyL89lm_oWPyrbmv/view?usp=sharing) | |
 | ---
 | Monday, September 6 | Labor Day. No class |
 | Tuesday, September 7 | | | | Homework 1 |
-| Wednesday, September 8 | Ideals | 1.4 |
+| Wednesday, September 8 | Parametrizations of Affine Varieties. Ideals | 1.3-4 |
 | Friday, September 10 | Polynomials of One Variable | 1.5 |
 | ---
 | Wednesday, September 15 | Gröbner bases: Introduction. Orderings on Monomials | 2.1-2 |
