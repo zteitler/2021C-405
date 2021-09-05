@@ -34,25 +34,30 @@
 % \begin{claim} ... \end{claim}
 % \begin{definition} ... \end{definition}
 % etc
-
-\newtheorem{theorem}[equation]{Theorem}
-\newtheorem{claim}[equation]{Claim}
-\newtheorem{lemma}[equation]{Theorem}
-\newtheorem{corollary}[equation]{Theorem}
-\newtheorem{conjecture}[equation]{Conjecture}
-\newtheorem{question}[equation]{Question}
-
-\theoremstyle{definition}
-
-\newtheorem{definition}[equation]{Definition}
-
 \theoremstyle{remark}
 
 \newtheorem{exer}{Exercise}
-\newtheorem{remark}[equation]{Remark}
-\newtheorem{example}[equation]{Example}
+\newtheorem{problem}[exer]{Problem}
 
-\numberwithin{equation}{exer}
+
+\theoremstyle{plain}
+
+\newtheorem{theorem}{Theorem}[exer]
+\newtheorem{claim}{Claim}[exer]
+\newtheorem{lemma}{Lemma}[exer]
+\newtheorem{corollary}{Corollary}[exer]
+\newtheorem{conjecture}{Conjecture}[exer]
+\newtheorem{question}{Question}[exer]
+
+\theoremstyle{definition}
+
+\newtheorem{definition}{Definition}[exer]
+
+
+\theoremstyle{remark}
+
+\newtheorem{remark}{Remark}[exer]
+\newtheorem{example}{Example}[exer]
 
 % Answers
 % Like the other ones:
