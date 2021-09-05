@@ -12,7 +12,7 @@ title: Calendar
 | Monday, August 30 | | | | Homework 0 |
 | ---
 | Wednesday, September 1 | Polynomials and Affine Space. Affine Varieties | 1.1-2 | [Sept 1](https://drive.google.com/file/d/1xq_VqrRuH6qFU4GoK0dd4leZceI1-MIn/view?usp=sharing) | |
-| Friday, September 3 | Parametrizations of Affine Varieties | 1.3 |
+| Friday, September 3 | Parametrizations of Affine Varieties | 1.3 | [Sept 3](https://drive.google.com/file/d/1-2gnRJH4Glv9IHicoyL89lm_oWPyrbmv/view?usp=sharing) | |
 | ---
 | Monday, September 6 | Labor Day. No class |
 | Tuesday, September 7 | | | | Homework 1 |
