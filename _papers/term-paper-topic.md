@@ -1,7 +1,7 @@
 ---
 layout: assignment
 title: Term paper, topic proposal
-duedate: 2020-02-05
+duedate: 2021-09-17
 headercounters: true
 ---
 
@@ -29,7 +29,7 @@ of your term paper, and address at least some of the following questions:
 ### Formatting
 
 + Please write your responses in a PDF file created using LaTeX.
-+ Upload the PDF to BlackBoard and/or GradeScope (TBA)
++ Upload the PDF to GradeScope.
 
 
 ## Topics
@@ -47,6 +47,7 @@ You are invited to freely select a topic of your own choice.
 Choose something you are interested in, something that excites you!
 If you don't know where to start, some suggestions include:
 + Bezout's theorem and Cayley-Bacharach theorem
++ Faugere's algorithms for Grobner bases
 + Using algebra to solve graph coloring problems, sudoku,
   and other puzzles (e.g., [chessboard puzzles](https://arxiv.org/abs/math/0504113))
 + Eigenvalues of tensors
@@ -92,17 +93,29 @@ You might be able to find some interesting topics in these:
   or machine learning, then these might be interesting topics for you.)
 + [Applications of Polynomial Systems](https://bookstore.ams.org/cbms-134)
 
-*Allowed* sources are restricted to ones listed in MathSciNet (<https://mathscinet.ams.org>).
+*Allowed* sources: You should only use sources listed in MathSciNet (<https://mathscinet.ams.org>),
+or listed above.
+(For example, the student-oriented journals listed above--College Mathematics Journal, Mathematics Magazine, etc.--aren't
+listed in MathSciNet, but they are excellent, reliable sources of high-quality information.
+However, "research journals" that aren't listed in MathSciNet are not necessarily reliable sources of high-quality information.)
+If you have questions about other sources, you can ask me.
+
+Web pages and videos can be excellent aides to help learn and understand a new topic,
+but they may not be appropriate sources for citations in written work.
+If you find a web page or video that you are interested in using for your term paper,
+you should look for a published article or book that includes the same information.
+(High-quality web pages and videos should include clear references to their source material.)
+Again, if you have questions about using a web page or video as a source, you can ask me.
 
 
 
 
 ## Advice
 
-No matter what topic you choose,
-you will have to explore sources to find ones that are right for you,
-and find ways to "make the topic your own"---learn from multiple sources,
-but then explain the topic in your own words.
+Don't pick something easy but boring ("the commutative rule for addition").
+On the other hand, don't pick something way too advanced ("motivic integration for perfectoid spaces").
+Instead, pick something interesting and fun, something that you will enjoy learning about,
+and writing about--something that you want to share!
 
 Importantly, **you will have to choose a narrow slice of your topic** to focus on.
 **Don't** try to tell the whole story of a major subject;
@@ -115,6 +128,5 @@ only for monomial ideals, or for some nice family of rings instead of for all ri
 Find the right balance where you can tell a story that's still interesting,
 but simple enough for beginning students to understand, within a 6-15 page scope.
 
-You don't have to work that all out right now, but keep it in mind.
-So don't pick something easy but boring ("the commutative rule for addition")
-and don't pick something too big ("introduction to operator analysis").
+The upshot is that it's okay to choose a paper or book and only plan
+to cover part of it in your term paper!
