@@ -26,4 +26,6 @@ focusing on ideals and Gröbner bases, affine varieties, and algorithms for comp
 
 ### [WeBWorK](https://calculus.boisestate.edu/webwork2/)
 
+### [Exams](exams)
+
 ### [Resources](resources)
