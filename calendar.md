@@ -16,7 +16,7 @@ title: Calendar
 | ---
 | Monday, September 6 | Labor Day. No class |
 | Tuesday, September 7 | | | | Homework 1 |
-| Wednesday, September 8 | Parametrizations of Affine Varieties. Ideals | 1.3-4 |
+| Wednesday, September 8 | Parametrizations of Affine Varieties. Ideals | 1.3-4 | [Sept 8](https://drive.google.com/file/d/1-2nmcrxunZtkf-x17RcLbRVRvZmASOdt/view?usp=sharing) | |
 | Friday, September 10 | Polynomials of One Variable | 1.5 |
 | ---
 | Wednesday, September 15 | Gröbner bases: Introduction. Orderings on Monomials | 2.1-2 |
