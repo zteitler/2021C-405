@@ -1,7 +1,7 @@
 ---
 layout: assignment
 title: Homework 2
-duedate: 2021-09-13
+duedate: 2021-09-15
 mathjax: true
 ---
 

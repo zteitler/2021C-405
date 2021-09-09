@@ -19,7 +19,7 @@ title: Calendar
 | Wednesday, September 8 | Parametrizations of Affine Varieties. Ideals | 1.3-4 | [Sept 8](https://drive.google.com/file/d/1-2nmcrxunZtkf-x17RcLbRVRvZmASOdt/view?usp=sharing) | |
 | Friday, September 10 | Polynomials of One Variable | 1.5 |
 | ---
-| Wednesday, September 15 | Gröbner bases: Introduction. Orderings on Monomials | 2.1-2 |
+| Wednesday, September 15 | Gröbner bases: Introduction. Orderings on Monomials | 2.1-2 | Homework 2 |
 | Friday, September 17 | Division Algorithm | 2.3 | | Term paper initial topic proposal |
 | ---
 | Wednesday, September 22 | Computer Algebra Systems |
