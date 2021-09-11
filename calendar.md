@@ -16,17 +16,17 @@ title: Calendar
 | ---
 | Monday, September 6 | Labor Day. No class |
 | Tuesday, September 7 | | | | Homework 1 |
-| Wednesday, September 8 | Parametrizations of Affine Varieties. Ideals | 1.3-4 | [Sept 8](https://drive.google.com/file/d/1-2nmcrxunZtkf-x17RcLbRVRvZmASOdt/view?usp=sharing) | |
-| Friday, September 10 | Polynomials of One Variable | 1.5 |
+| Wednesday, September 8 | Parametrizations of Affine Varieties. | 1.3 | [Sept 8](https://drive.google.com/file/d/1-2nmcrxunZtkf-x17RcLbRVRvZmASOdt/view?usp=sharing) | |
+| Friday, September 10 | Examples of parametrized varieties | 1.3 | [Sept 10](https://drive.google.com/file/d/1-2uxsDBDmodyvihq8hALWhGPIme9kI17/view?usp=sharing) | |
 | ---
-| Wednesday, September 15 | Gröbner bases: Introduction. Orderings on Monomials | 2.1-2 | Homework 2 |
-| Friday, September 17 | Division Algorithm | 2.3 | | Term paper initial topic proposal |
+| Wednesday, September 15 | Ideals | 1.4 | | Homework 2 |
+| Friday, September 17 | Ideals. Polynomials of One Variable | 1.4-5 | | Term paper initial topic proposal |
 | ---
-| Wednesday, September 22 | Computer Algebra Systems |
-| Friday, September 24 | Monomial Ideals and Dickson's Lemma | 2.4 |
+| Wednesday, September 22 | Gröbner bases: Introduction. Orderings on Monomials | 2.1-2 | |
+| Friday, September 24 | Division Algorithm | 2.3 | |  |
 | ---
-| Wednesday, September 29 | Hilbert Basis Theorem | 2.5 | |
-| Friday, October 1 | Properties of Gröbner Bases | 2.6 | | Term paper outline |
+| Wednesday, September 29 | Computer Algebra Systems. Monomial Ideals and Dickson's Lemma  | 2.4 |
+| Friday, October 1 | Hilbert Basis Theorem. Properties of Gröbner Bases | 2.5-6 | | Term paper outline |
 | ---
 | Wednesday, October 6 | Buchberger's Algorithm | 2.7 |
 | Friday, October 8 | First Applications of Gröbner Bases | 2.8 |
