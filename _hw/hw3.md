@@ -70,7 +70,7 @@ You are encouraged to [work together on the homework](https://zteitler.github.io
 ## Problems to complete on WebWork
 
 Visit [WeBWork](https://calculus.boisestate.edu/webwork2).
-Complete the "Univariate polynomial division" assignment within WebWork.
+Complete the "Section 1.5" assignment within WebWork.
 
 
 
