@@ -42,7 +42,7 @@ For more tips and examples, see for example
 + You can use LaTeX, Microsoft Word, Google Doc, or any other system
   (but your outline has to be typed, not handwritten).
 
-+ Upload your PDF to Gradescope.
++ Upload your PDF to Canvas. (Not Gradescope.)
 
 If you use LaTeX, then you can use things like:
 

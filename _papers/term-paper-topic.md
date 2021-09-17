@@ -43,7 +43,7 @@ in these ways:
 ### Formatting
 
 + Please write your responses in a PDF file created using LaTeX.
-+ Upload the PDF to GradeScope.
++ Upload the PDF to Canvas. (Not Gradescope. I am trying Canvas as an experiment.)
 
 ### Grading
 
