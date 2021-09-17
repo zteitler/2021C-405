@@ -20,7 +20,7 @@ title: Calendar
 | Friday, September 10 | Examples of parametrized varieties | 1.3 | [Sept 10](https://drive.google.com/file/d/1-2uxsDBDmodyvihq8hALWhGPIme9kI17/view?usp=sharing) | |
 | ---
 | Wednesday, September 15 | Ideals | 1.4 | [Sept 15](https://drive.google.com/file/d/1D7yUaYC6IQ8-N43qOyojQMDws8Fx3LLi/view?usp=sharing) | Homework 2 |
-| Friday, September 17 | Ideals. Polynomials of One Variable | 1.4-5 | | Term paper initial topic proposal |
+| Friday, September 17 | Ideals. Polynomials of One Variable | 1.4-5 | [Sept 17](https://drive.google.com/file/d/1-4RxUnDFd0h_O5fuxeM9oDEFf4VazoJ1/view?usp=sharing) | Term paper initial topic proposal |
 | ---
 | Wednesday, September 22 | Gröbner bases: Introduction. Orderings on Monomials | 2.1-2 | |
 | Friday, September 24 | Division Algorithm | 2.3 | |  |
