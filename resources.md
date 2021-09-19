@@ -77,3 +77,14 @@ We will also use [Zoom](https://boisestate.zoom.us) (Zoom meeting link posted in
 {% endcomment %}
 
 6.  [Detexify](https://detexify.kirelabs.org/classify.html)
+
+
+### Accessing MathSciNet and Journals via Library Proxy
+
+1.  [Original link to MathSciNet](https://mathscinet.ams.org), accessible from campus networks and VPN
+
+2.  [Library proxy link to MathSciNet](https://libproxy.boisestate.edu/login?url=http://mathscinet.ams.org)
+
+3.  Library proxies in general: add `https://libproxy.boisestate.edu/login?url=` in front
+    of the URL you want to visit.
+    See [Boise State EZProxy "proxy bookmarklet" on Paperpile](https://paperpile.com/p/proxy-boisestate/).
