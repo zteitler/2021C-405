@@ -47,73 +47,93 @@ You are encouraged to [work together on the homework](https://zteitler.github.io
     and any point that satisfies the equations is given by the parametrization,
     in other words there are some input values that give that point as the output.)
 
-4.  (Not from the textbook.)
-    
-    We can use ideals to define "modulo" equivalence relations in any ring.
-    
-    For this exercise let $$R$$ be any commutative ring with multiplicative identity.
-    For any set $$S \subseteq R$$ and for any $$x,y \in R$$,
-    we define $$x \equiv y \pmod{S}$$, in other words $$x$$ is congruent to $$y$$ modulo $$S$$,
-    if and only if $$x-y \in S$$.
-    
-    **LaTeX:** Write `x \equiv y \pmod{S}` to get $$x \equiv y \pmod{S}$$.
-    Please use the `\pmod{...}` command to write about modular congruence.
-    You can avoid using this notation if you simply write `x - y \in S` ($$x-y \in S$$).
-    
-    The goal of this exercise is to show that this congruence relation
-    has nice properties, like congruence of integers (modular arithmetic),
-    if and only if $$S$$ is an ideal.
-    This is one of the reasons why ideals are defined the way they are,
-    and why they are important.
+
+The next two exercises are not from the textbook.
+
+We can use ideals to define "modulo" equivalence relations in any ring.
+
+For these exercises let $$R$$ be any commutative ring with multiplicative identity.
+For any set $$S \subseteq R$$ and for any $$x,y \in R$$,
+we define $$x \equiv y \pmod{S}$$, in other words $$x$$ is congruent to $$y$$ modulo $$S$$,
+if and only if $$x-y \in S$$.
+
+**LaTeX:** Write `x \equiv y \pmod{S}` to get $$x \equiv y \pmod{S}$$.
+Please use the `\pmod{...}` command to write about modular congruence.
+You can avoid using this notation if you simply write `x - y \in S` ($$x-y \in S$$).
+
+The goal of these exercises is to show that this congruence relation
+has nice properties, like congruence of integers (modular arithmetic),
+if and only if $$S$$ is an ideal.
+This is one of the reasons why ideals are defined the way they are,
+and why they are important.
+
+{: start="4"}
+4.  In this exercise you will explain how this new "modulo ideals"
+    is related to "modulo an integer" that you have seen before,
+    and you will prove that "modulo ideals" has nice properties.
     
     1.  First suppose $$R = \mathbb{Z}$$ and $$I = \langle m \rangle$$
         is the ideal consisting of multiples of $$m$$.
-        Explain why congruence modulo the ideal $$I$$ (new definition in this exercise)
+        Explain why congruence modulo the ideal $$I$$ (new definition in this homework)
         is the same thing as congruence modulo $$m$$ (definition you've seen in previous classes).
     
-    The next part shows that when $$S=I$$ is an ideal,
-    then congruence modulo $$I$$ has nice properties.
+    For the rest of this exercise let $$R$$ be any commutative ring with multiplicative identity
+    and let $$I$$ be any ideal in $$R$$.
     
     {: start="2"}
-    2.  Now, for any commutative ring $$R$$ and ideal $$I$$,
-        prove that congruence modulo $$I$$ is reflexive, symmetric, and transitive.
-        Prove that if $$a \equiv b \pmod{I}$$ and $$c \equiv d \pmod{I}$$,
+    2.  Prove that congruence modulo $$I$$ is reflexive, symmetric, and transitive.
+        
+        (Recall: saying that congruence modulo $$I$$ is *reflexive* means that
+        for all $$x \in R$$, $$x \equiv x \pmod{I}$$.
+        Saying congruence is *symmetric* means that if $$x \equiv y \pmod{I}$$,
+        then $$y \equiv x \pmod{I}$$.
+        Saying congruence is *transitive* means that if $$x \equiv y \pmod{I}$$
+        and $$y \equiv z \pmod{I}$$, then $$x \equiv z \pmod{I}$$.)
+        
+    3.  Prove that if $$a \equiv b \pmod{I}$$ and $$c \equiv d \pmod{I}$$,
         then $$a+c \equiv b+d \pmod{I}$$ and $$ac \equiv bd \pmod{I}$$.
-  
-    The remaining exercises show the converse:
+        We say that congruence modulo $$I$$ is *additive* and *multiplicative*.
+
+5.  This exercise is to show the converse:
     the "nice" algebraic properties of modular arithmetic hold *only* for ideals.
-    Our goal is to prove that if congruence modulo $$S$$ has these nice properties,
+    Our goal is to prove that if congruence modulo $$S$$ has the nice properties
+    in the previous exercise,
     then $$S$$ has to be an ideal.
     
-    {: start="3"}
-    3.  Show: If congruence modulo $$S$$ is reflexive, then $$0 \in S$$.
+    Let $$R$$ be a commutative ring with multiplicative identity
+    and let $$S$$ be a subset in $$R$$.
+    
+    1.  Show: If congruence modulo $$S$$ is reflexive, then $$0 \in S$$.
         If congruence modulo $$S$$ is symmetric,
         then $$S$$ is closed under taking additive inverses
         (i.e., if $$a \in S$$ then $$-a \in S$$).
         If congruence modulo $$S$$ is transitive,
         then $$S$$ is closed under addition.
   
-    4.  Show: If congruence modulo $$S$$ is additive
-        (meaning: for any $$a,b,c,d \in R$$,
-        if $$a \equiv b \pmod{S}$$ and $$c \equiv d \pmod{S}$$,
-        then $$a+c \equiv b+d \pmod{S}$$),
+    2.  We say that congruence modulo $$S$$ is *additive*
+        if it has the property that,
+        if $$a \equiv b \pmod{S}$$ and $$c \equiv d \pmod{S}$$, then $$a+c \equiv b+d \pmod{S}$$.
+        
+        Show: If congruence modulo $$S$$ is additive,
         then $$S$$ is closed under addition.
   
-    5.  Finally, suppose congruence modulo $$S$$ is reflexive, symmetric, transitive, and additive
-        (so we know that $$S$$ contains $$0$$, is closed under taking additive inverses,
-        and is closed under addition).
-        Show: If congruence modulo $$S$$ is multiplicative
-        (meaning: for any $$a,b,c,d \in R$$,
-        if $$a \equiv b \pmod{S}$$ and $$c \equiv d \pmod{S}$$, then $$ac \equiv bd \pmod{S}$$),
-        then $$S$$ is an ideal.
+    3.  We say that congruence modulo $$S$$ is *multiplicative*
+        if it has the property that,
+        if $$a \equiv b \pmod{S}$$ and $$c \equiv d \pmod{S}$$, then $$ac \equiv bd \pmod{S}$$.
         
-        (Hint: For $$r \in R$$ and $$s \in S$$
-        we have $$r \equiv r \pmod{S}$$ and $$s \equiv 0 \pmod{S}$$.)
+        Show: If congruence modulo $$S$$ is multiplicative,
+        then $$S$$ absorbs products.
         
-      In conclusion, we can use "modular arithmetic" in any ring, with respect to any ideal.
-      This generalizes modular arithmetic of integers.
-      And one reason why ideals are important is because they are the subsets
-      that make generalized modular arithmetic possible.
+        (Hint: For $$r \in R$$ and $$f \in S$$,
+        we have $$r \equiv r+f \pmod{S}$$ and $$f \equiv 0 \pmod{S}$$.)
+    
+    4.  Show: Congruence modulo $$S$$ is reflexive, symmetric, transitive, additive, and multiplicative
+        if and only if $$S$$ is an ideal.
+        
+    In conclusion, we can use "modular arithmetic" in any ring, with respect to any ideal.
+    This generalizes modular arithmetic of integers.
+    One reason why ideals are important is because they are the subsets
+    that make generalized modular arithmetic possible.
 
 
 
