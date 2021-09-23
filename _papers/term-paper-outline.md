@@ -2,6 +2,7 @@
 layout: assignment
 title: Term paper, outline
 duedate: 2021-10-01
+published: false
 ---
 
 In this assignment you will write an **outline** for your term paper,
