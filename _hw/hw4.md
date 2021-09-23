@@ -56,6 +56,10 @@ You are encouraged to [work together on the homework](https://zteitler.github.io
     we define $$x \equiv y \pmod{S}$$, in other words $$x$$ is congruent to $$y$$ modulo $$S$$,
     if and only if $$x-y \in S$$.
     
+    **LaTeX:** Write `x \equiv y \pmod{S}` to get $$x \equiv y \pmod{S}$$.
+    Please use the `\pmod{...}` command to write about modular congruence.
+    You can avoid using this notation if you simply write `x - y \in S` ($$x-y \in S$$).
+    
     The goal of this exercise is to show that this congruence relation
     has nice properties, like congruence of integers (modular arithmetic),
     if and only if $$S$$ is an ideal.
@@ -106,10 +110,10 @@ You are encouraged to [work together on the homework](https://zteitler.github.io
         (Hint: For $$r \in R$$ and $$s \in S$$
         we have $$r \equiv r \pmod{S}$$ and $$s \equiv 0 \pmod{S}$$.)
         
-  In conclusion, we can use "modular arithmetic" in any ring, with respect to any ideal.
-  This generalizes modular arithmetic of integers.
-  And one reason why ideals are important is because they are the subsets
-  that make generalized modular arithmetic possible.
+      In conclusion, we can use "modular arithmetic" in any ring, with respect to any ideal.
+      This generalizes modular arithmetic of integers.
+      And one reason why ideals are important is because they are the subsets
+      that make generalized modular arithmetic possible.
 
 
 
