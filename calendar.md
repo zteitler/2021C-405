@@ -25,10 +25,10 @@ title: Calendar
 | Wednesday, September 22 | Ideals and varieties | 1.4 | [Sept 22](https://drive.google.com/file/d/1-5CqMOZzmxQ1_iNXwDN1oL4Q4xIXFLtI/view?usp=sharing) | Homework 3 |
 | Friday, September 24 | Gröbner bases: Introduction. Orderings on Monomials. | 2.1-2 | [Sept 24](https://drive.google.com/file/d/1-7zp6YQLUEIF973nhdWOYh0l9LQTF7o0/view?usp=sharing) |
 | ---
-| Wednesday, September 29 | Orderings on Monomials. Division Algorithm. Computer Algebra Systems. | 2.2-4 | Homework 4 |
-| Friday, October 1 | Monomial Ideals and Dickson's Lemma. Hilbert Basis Theorem.  | 2.5-6 | | Term paper outline |
+| Wednesday, September 29 | Orderings on Monomials.  | 2.2-4 | [Sept 29](https://drive.google.com/file/d/1OGpaHNtnTM5rWyCHUhvLH5w3Ue1idxMO/view?usp=sharing) | Homework 4 |
+| Friday, October 1 | Division Algorithm. Computer Algebra Systems. Monomial Ideals and Dickson's Lemma. | 2.3-4 | | Term paper outline |
 | ---
-| Wednesday, October 6 | Properties of Gröbner Bases. Buchberger's Algorithm | 2.7 |
+| Wednesday, October 6 | Hilbert Basis Theorem. Properties of Gröbner Bases. Buchberger's Algorithm | 2.4-7 |
 | Friday, October 8 | First Applications of Gröbner Bases | 2.8 |
 | ---
 | October 11-15 | | | | Midterm exam |
