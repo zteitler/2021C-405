@@ -89,19 +89,29 @@ However, during the exam you will answer two questions.
         such that for any $$t_1$$ and $$t_2$$,
         either $$I_{t_1} \subseteq I_{t_2}$$ or $$I_{t_1} \supseteq I_{t_2}$$.)
 
+5.  Textbook exercise 2.5.18
 
-5.  Let $$X = \begin{pmatrix} x_1 & x_2 & x_3 \\ x_4 & x_5 & x_6 \end{pmatrix}$$.
+6.  Let $$X = \begin{pmatrix} x_1 & x_2 & x_3 \\ x_4 & x_5 & x_6 \end{pmatrix}$$.
     Let $$R = \Bbbk[x_1,\dotsc,x_6]$$ with lex order with $$x_1 > \dotsb > x_6$$.
     Let $$G = \{ x_1 x_5 - x_2 x_4, x_1 x_6 - x_3 x_4, x_2 x_6 - x_3 x_5 \}$$.
     (You might notice that these are the determinants of $$2 \times 2$$ submatrices of $$X$$.)
     Is $$G$$ a Gröbner basis?
 
+7.  Choose one interesting proof problem from the text that was not turned in for homework.
+    Describe why you find it interesting.
+    Then either solve it, or find a solution online and work through it,
+    using your own understanding to critique that solution and improve it
+    (be sure to cite your sources).
+
+
+
+{% comment %}
 
 6.  Textbook exercise 2.7.10
 
-
 7.  Textbook exercise 2.7.14
 
+{% comment %}
 
 
 ## Grading
