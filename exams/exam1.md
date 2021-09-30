@@ -89,13 +89,9 @@ However, during the exam you will answer two questions.
         such that for any $$t_1$$ and $$t_2$$,
         either $$I_{t_1} \subseteq I_{t_2}$$ or $$I_{t_1} \supseteq I_{t_2}$$.)
 
-5.  Textbook exercise 2.5.18
+5.  Textbook exercise 2.3.5
 
-6.  Let $$X = \begin{pmatrix} x_1 & x_2 & x_3 \\ x_4 & x_5 & x_6 \end{pmatrix}$$.
-    Let $$R = \Bbbk[x_1,\dotsc,x_6]$$ with lex order with $$x_1 > \dotsb > x_6$$.
-    Let $$G = \{ x_1 x_5 - x_2 x_4, x_1 x_6 - x_3 x_4, x_2 x_6 - x_3 x_5 \}$$.
-    (You might notice that these are the determinants of $$2 \times 2$$ submatrices of $$X$$.)
-    Is $$G$$ a Gröbner basis?
+6.  Textbook exercise 2.5.18
 
 7.  Choose one interesting proof problem from the text that was not turned in for homework.
     Describe why you find it interesting.
@@ -106,6 +102,13 @@ However, during the exam you will answer two questions.
 
 
 {% comment %}
+
+
+5.  Let $$X = \begin{pmatrix} x_1 & x_2 & x_3 \\ x_4 & x_5 & x_6 \end{pmatrix}$$.
+    Let $$R = \Bbbk[x_1,\dotsc,x_6]$$ with lex order with $$x_1 > \dotsb > x_6$$.
+    Let $$G = \{ x_1 x_5 - x_2 x_4, x_1 x_6 - x_3 x_4, x_2 x_6 - x_3 x_5 \}$$.
+    (You might notice that these are the determinants of $$2 \times 2$$ submatrices of $$X$$.)
+    Is $$G$$ a Gröbner basis?
 
 6.  Textbook exercise 2.7.10
 
@@ -190,6 +193,10 @@ Some tips include:
 +   Personally, I enjoy clear, well-prepared, well-executed answers, even if they are
     for "easy" questions.
     (But if you want to answer a challenging question, that's fine too!)
+    
+    That means you should choose a question that you can answer well, even if it's "easy,"
+    rather than trying to impress me with a "difficult" question that you can barely answer.
+
 
 +   Think about what follow-up questions might be asked.
     Some possibilities include: asking you to expand on a detail of your prepared answer;
