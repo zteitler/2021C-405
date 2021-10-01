@@ -26,13 +26,13 @@ title: Calendar
 | Friday, September 24 | Gröbner bases: Introduction. Orderings on Monomials. | 2.1-2 | [Sept 24](https://drive.google.com/file/d/1-7zp6YQLUEIF973nhdWOYh0l9LQTF7o0/view?usp=sharing) |
 | ---
 | Wednesday, September 29 | Orderings on Monomials.  | 2.2-4 | [Sept 29](https://drive.google.com/file/d/1OGpaHNtnTM5rWyCHUhvLH5w3Ue1idxMO/view?usp=sharing) | Homework 4 |
-| Friday, October 1 | Division Algorithm. Computer Algebra Systems. Monomial Ideals and Dickson's Lemma. | 2.3-4 | | Term paper outline |
+| Friday, October 1 | Division Algorithm.  | 2.3 | [Oct 1](https://drive.google.com/file/d/1-AFtYy4aXMz68LvoJEOdwWN4cMK5bK5D/view?usp=sharing) | Term paper reading report |
 | ---
-| Wednesday, October 6 | Hilbert Basis Theorem. Properties of Gröbner Bases. Buchberger's Algorithm | 2.4-7 |
-| Friday, October 8 | First Applications of Gröbner Bases | 2.8 |
+| Wednesday, October 6 | Computer Algebra Systems. Monomial Ideals and Dickson's Lemma. Hilbert Basis Theorem. | 2.4-2.5 |
+| Friday, October 8 | Properties of Gröbner Bases. Buchberger's Algorithm.  | 2.5-2.7 |
 | ---
 | October 11-15 | | | | Midterm exam |
-| Wednesday, October 13 | Elimination Theory: Elimination and Extension Theorems | 3.1 |
+| Wednesday, October 13 | First Applications of Gröbner Bases. Elimination Theory: Elimination and Extension Theorems | 2.8, 3.1 |
 | Friday, October 15 | Geometry of Elimination | 3.2 |
 | ---
 | Wednesday, October 20 | Implicitization | 3.3 |
