@@ -142,19 +142,25 @@ of delay or technical difficulties.
 
 Available meeting times are:
 
-TBD (during the week of October 11-15, 2021)
-
 {% comment %}
 
-| Monday, May 3 | 11:00am-2:00pm |
-| Tuesday, May 4 | 2:00pm-4:00pm |
-| Wednesday, May 5 | 3:00pm-5:00pm |
-| Thursday, May 6 | 9:30am-11:30am |
-| Thursday, May 6 | 1:00pm-4:00pm |
-| Friday, May 7 | 1:00pm-4:00pm |
+TBD (during the week of October 11-15, 2021)
+{% endcomment %}
+
+
+| Monday, October 11 | 9:00am-10:30am |
+| Monday, October 11 | 11:00am-11:30am |
+| Tuesday, October 12 | 10:30am-4:00pm |
+| Wednesday, October 13 | 9:00am-10:00am |
+| Wednesday, October 13 | 1:30pm-3:00pm |
+| Thursday, October 14 | 1:30pm-3:00pm |
+| Friday, October 15 | 9:00am-10:00am |
+| Friday, October 15 | 12:30pm-2:30pm |
+
+You can reserve an exam time with a
+[Google Calendar appointment](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUxMOE5iZlhHc2dMfGRlZmF1bHR8NjI5MDgyNTcxYWExZGRhZjJhMDY1Y2UyYzI2YjEzODM).
 
 If other days/times are needed, please contact me.
-{% endcomment %}
 
 
 ## Time limit
