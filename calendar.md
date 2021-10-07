@@ -28,7 +28,7 @@ title: Calendar
 | Wednesday, September 29 | Orderings on Monomials.  | 2.2-4 | [Sept 29](https://drive.google.com/file/d/1OGpaHNtnTM5rWyCHUhvLH5w3Ue1idxMO/view?usp=sharing) | Homework 4 |
 | Friday, October 1 | Division Algorithm.  | 2.3 | [Oct 1](https://drive.google.com/file/d/1-AFtYy4aXMz68LvoJEOdwWN4cMK5bK5D/view?usp=sharing) | Term paper reading report |
 | ---
-| Wednesday, October 6 | Computer Algebra Systems. Monomial Ideals and Dickson's Lemma. Hilbert Basis Theorem. | 2.4-2.5 |
+| Wednesday, October 6 | Computer Algebra Systems. Monomial Ideals and Dickson's Lemma. Hilbert Basis Theorem. | 2.4-2.5 | [Oct 6](https://drive.google.com/file/d/1-PZYKTthso6f2f8-C6Y-6jyIBu0dfIpw/view?usp=sharing) |
 | Friday, October 8 | Properties of Gröbner Bases. Buchberger's Algorithm.  | 2.5-2.7 |
 | ---
 | October 11-15 | | | | Midterm exam |
