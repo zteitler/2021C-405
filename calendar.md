@@ -32,23 +32,23 @@ title: Calendar
 | Friday, October 8 | Properties of Gröbner Bases. Buchberger's Algorithm.  | 2.5-2.7 | [Oct 8](https://drive.google.com/file/d/1-RDyeEqxfMPxjDs1sj4_76E2fKKsBSSD/view?usp=sharing) |
 | ---
 | October 11-15 | | | | Midterm exam |
-| Wednesday, October 13 | First Applications of Gröbner Bases. Elimination Theory: Elimination and Extension Theorems | 2.8, 3.1 |
-| Friday, October 15 | Geometry of Elimination | 3.2 |
+| Wednesday, October 13 | Noetherian rings. Buchberger's Criterion, part 1 | 2.5-2.6 | [Oct 13](https://drive.google.com/file/d/1-WJA1mi_-a-1Np9SvzRimwI2d1yxUzoY/view?usp=sharing) |
+| Friday, October 15 | Buchberger's Criterion, part 2 | 2.6 | [Oct 15](https://drive.google.com/file/d/1-XOxgCfDn3hZR4biUfT9D0gnQrQZ6n5R/view?usp=sharing) |
 | ---
-| Wednesday, October 20 | Implicitization | 3.3 |
-| Friday, October 22 | Singular Points and Envelopes | 3.4 | | Term paper first draft |
+| Wednesday, October 20 | Buchberger's Algorithm | 2.7 |
+| Friday, October 22 | Elimination Theory: Elimination and Extension Theorems | 3.1 |
 | ---
-| Wednesday, October 27 | Gröbner Bases and the Extension Theorem | 3.5 |
-| Friday, October 29 | Resultants and the Extension Theorem | 3.6 |
+| Wednesday, October 27 | 
+| Friday, October 29 | 
 | ---
-| Wednesday, November 3 | Algebra-Geometry Dictionary: Hilbert's Nullstellensatz | 4.1 |
-| Friday, November 5 | Radical Ideals and the Ideal-Variety Correspondence | 4.2 |
+| Wednesday, November 3 | 
+| Friday, November 5 | 
 | ---
-| Wednesday, November 10 | Sums, Products, and Intersections of Ideals | 4.3 |
-| Friday, November 12 | Zariski Closures | 4.4 | | Term paper second draft |
+| Wednesday, November 10 | 
+| Friday, November 12 |  |  | | Term paper second draft |
 | ---
-| Wednesday, November 17 | Irreducible Varieties and Prime Ideals | 4.5 |
-| Friday, November 19 | Decomposition of a Variety into Irreducibles | 4.6 |
+| Wednesday, November 17 | 
+| Friday, November 19 | 
 | ---
 | Wednesday, November 24 | Thanksgiving Holiday. No class |
 | Friday, November 26 | Thanksgiving Holiday. No class |
