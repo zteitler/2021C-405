@@ -35,8 +35,8 @@ title: Calendar
 | Wednesday, October 13 | Noetherian rings. Buchberger's Criterion, part 1 | 2.5-2.6 | [Oct 13](https://drive.google.com/file/d/1-WJA1mi_-a-1Np9SvzRimwI2d1yxUzoY/view?usp=sharing) |
 | Friday, October 15 | Buchberger's Criterion, part 2 | 2.6 | [Oct 15](https://drive.google.com/file/d/1-XOxgCfDn3hZR4biUfT9D0gnQrQZ6n5R/view?usp=sharing) |
 | ---
-| Wednesday, October 20 | Buchberger's Algorithm | 2.7 |
-| Friday, October 22 | Elimination Theory: Elimination and Extension Theorems | 3.1 |
+| Wednesday, October 20 | Buchberger's Algorithm | 2.7 | [Oct 20](https://drive.google.com/file/d/1S8kN6Ovadz9KVI7aC8c1zgNs5GXhEzb7/view?usp=sharing) |
+| Friday, October 22 | Elimination Theory: Elimination and Extension Theorems | 3.1 | [Oct 22](https://drive.google.com/file/d/1t0ElRES547wn9Q1vQ5MFemroMEHAGbZ7/view?usp=sharing) |
 | ---
 | Wednesday, October 27 | 
 | Friday, October 29 | 
