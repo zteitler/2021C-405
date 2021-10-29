@@ -39,10 +39,11 @@ title: Calendar
 | Friday, October 22 | Elimination Theory: Elimination and Extension Theorems | 3.1 | [Oct 22](https://drive.google.com/file/d/1t0ElRES547wn9Q1vQ5MFemroMEHAGbZ7/view?usp=sharing) |
 | ---
 | Wednesday, October 27 | Elimination Theorem. Extension of partial solutions | 3.1 | [Oct 27](https://drive.google.com/file/d/1zf7SvP1MM2KHdU1uLARToDH2MFme_w-j/view?usp=sharing) | Homework 6 (WebWork) |
-| Friday, October 29 | 
+| Friday, October 29 | Extension Theorem. | [Oct 29](https://drive.google.com/file/d/1-jTmFUQpejKTvwZPB7txx94uYlqbowkY/view?usp=sharing) |
 | ---
 | Wednesday, November 3 |  |  |  | Homework 7 |
 | Friday, November 5 |  |  |  | Term paper first draft |
+
 | ---
 | Wednesday, November 10 | 
 | Friday, November 12 |  |  | | Term paper second draft |
