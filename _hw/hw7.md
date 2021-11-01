@@ -33,7 +33,16 @@ You are encouraged to [work together on the homework](https://zteitler.github.io
 ## Problems to turn in on Gradescope
 
 
-1.  Section 3.1, Exercise 2
+1.  Section 3.1, Exercise 2, parts (a)-(c) (skip part (d)).
+    
+    Instructions:
+    
+    + Please do computations by hand. You can use a computer or calculator
+      to check your work, and to help with arithmetic.
+    
+    + You do not have to type the steps of divisions in LaTeX. Instead, show
+      the result of the division, the remainder, for example "When we divide
+      $$x^2$$ by $$G_1$$ the remainder is $$y+1$$."
 
 2.  Let $$X = \begin{pmatrix} x_1 & x_2 & x_3 \\ x_4 & x_5 & x_6 \end{pmatrix}$$.
     Let $$R = \Bbbk[x_1,\dotsc,x_6]$$ with lex order with $$x_1 > \dotsb > x_6$$.
@@ -41,27 +50,7 @@ You are encouraged to [work together on the homework](https://zteitler.github.io
     (Notice that these are the determinants of $$2 \times 2$$ submatrices of $$X$$.)
     Is $$G$$ a Gröbner basis?
 
-3.  (Adapted from a problem by G.G. Smith)  
-    Suppose we have numbers $$a,b,c$$ which satisfy the equations:
-    
-    $$ a+b+c=3 \qquad a^2+b^2+c^2=5 \qquad a^3+b^3+c^3=7 $$
-    
-    Our goal is to find $$a^4+b^4+c^4$$, $$a^5+b^5+c^5$$, and $$a^6+b^6+c^6$$.
-    
-    1.  Find a Gröbner basis for the ideal
-        $$\langle A+B+C-3, A^2+B^2+C^2-5, A^3+B^3+C^3-7 \rangle$$
-        in the ring $$k[A,B,C]$$.
-        (Specify what monomial ordering you are using.)
-    
-    2.  Prove that $$a^4+b^4+c^4=9$$.  
-        (Hint: Show that $$A^4+B^4+C^4-9$$ is in the ideal
-        $$\langle A+B+C-3, A^2+B^2+C^2-5, A^3+B^3+C^3-7 \rangle$$.
-        Show how you use a Gröbner basis to solve the Ideal Membership Problem.)
-    
-    3.  Show that $$a^5+b^5+c^5 \neq 11$$.  
-        (Hint: What is the remainder when $$A^5+B^5+C^5$$ is divided by the Gröbner basis you found?)
-    
-    4.  What are $$a^5+b^5+c^5$$ and $$a^6+b^6+c^6$$?
+3.  This problem is canceled.
 
 Let $$R$$ and $$S$$ be rings (commutative rings with $$1$$).
 A *homomorphism* from $$R$$ to $$S$$ is a function $$f : R \to S$$
