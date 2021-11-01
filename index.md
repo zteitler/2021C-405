@@ -28,4 +28,6 @@ focusing on ideals and Gröbner bases, affine varieties, and algorithms for comp
 
 ### [Exams](exams)
 
+### [Computing](computing)
+
 ### [Resources](resources)
