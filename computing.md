@@ -151,10 +151,34 @@ R = QQ[x,y,z, MonomialOrder=>GRevLex] -- grevlex order
 Sage can be tried online with CoCalc or SageMathCell,
 both linked from the [Sage home page](https://sagemath.org).
 
-### Polynomials
+### Some basic commands
 
-All the basic operations with polynomials can be performed in Sage.
-I will try to add directions later.
+Try
+
+```
+2+2
+2*2
+2^2
+4/2
+4//2
+100//7
+100%7
+(100//7)*7 + (100%7)
+2+2 # if you type "#" then the rest of the line is a comment (ignored by Sage)
+```
+
+### Basic rings and ideals
+
+Try
+
+```
+R.<x,y> = PolynomialRing(QQ,2) # Ring with rational coefficients (QQ = \mathbb{Q}) and variables x,y
+f1 = x+y-3
+f2 = x^2+y^2-5
+x*f1 - f2  # this is S(f1,f2)
+I = ideal(f1, f2)
+G = I.groebner_basis() # compute Grobner basis
+```
 
 ### Polynomial division
 
@@ -187,6 +211,35 @@ def ivadivision(f,G):
   
   return [r,Q]
 ```
+
+
+To use this, enter the above code into Sage.
+Then you can use it like the following example.
+
+```
+f = x^2*y
+G = [x^2-y, x*y-x]
+ivadivision(f,G)
+```
+
+This will show the remainder when $$f$$ is divided by $$G$$,
+followed by the quotient polynomials (the $$q_i$$ polynomials).
+To extract just the remainder, use:
+
+```
+r = ivadivision(f,G)[0]
+```
+
+### Choosing different monomial orders
+
+Different monomial orders can be chosen in Sage when the ring is created, with:
+
+```
+R.<x,y,z> = PolynomialRing(QQ,3,order='lex') # lex order
+R.<x,y,z> = PolynomialRing(QQ,3,order='deglex') # grlex order
+R.<x,y,z> = PolynomialRing(QQ,3,order='degrevlex') # grevlex order
+```
+
 
 
 ## [Singular](https://www.singular.uni-kl.de)
