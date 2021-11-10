@@ -47,7 +47,7 @@ title: Calendar
 | Wednesday, November 10 | | | | Homework 8 |
 | Friday, November 12 |  |  | |  |
 | ---
-| Wednesday, November 17 | 
+| Wednesday, November 17 | | | | Homework 9 |
 | Friday, November 19 | | | | Term paper second draft |
 | ---
 | Wednesday, November 24 | Thanksgiving Holiday. No class |
