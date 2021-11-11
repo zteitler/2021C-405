@@ -44,7 +44,7 @@ title: Calendar
 | Wednesday, November 3 | Geometry of Elimination | 3.2 | [Nov 3](https://drive.google.com/file/d/1w-W9BbgkM7vbyi0qqMcLApJIVMjdCAKE/view?usp=sharing) | Homework 7 |
 | Friday, November 5 | Implicitization |  | [Nov 5](https://drive.google.com/file/d/1-mXQUoiX-tjvUtWV23rCvEx_oSAwrnjR/view?usp=sharing) | Term paper first draft |
 | ---
-| Wednesday, November 10 | | | | Homework 8 |
+| Wednesday, November 10 | Intersections of ideals. Resultants | 3.6 | [Nov 10](https://drive.google.com/file/d/1xQRX0IaEIxUbgGujF_4M7rYdSKj4tA9a/view?usp=sharing) | Homework 8 |
 | Friday, November 12 |  |  | |  |
 | ---
 | Wednesday, November 17 | | | | Homework 9 |
