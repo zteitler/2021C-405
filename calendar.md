@@ -45,7 +45,7 @@ title: Calendar
 | Friday, November 5 | Implicitization |  | [Nov 5](https://drive.google.com/file/d/1-mXQUoiX-tjvUtWV23rCvEx_oSAwrnjR/view?usp=sharing) | Term paper first draft |
 | ---
 | Wednesday, November 10 | Intersections of ideals. Resultants | 3.6 | [Nov 10](https://drive.google.com/file/d/1xQRX0IaEIxUbgGujF_4M7rYdSKj4tA9a/view?usp=sharing) | Homework 8 |
-| Friday, November 12 |  |  | |  |
+| Friday, November 12 | Resultants, discriminants | 3.6 | [Nov 12](https://drive.google.com/file/d/1uF7vFi67_7qYkkywdZDeuftvJA-MJOyV/view?usp=sharing) |  |
 | ---
 | Wednesday, November 17 | | | | Homework 9 |
 | Friday, November 19 | | | | Term paper second draft |
