@@ -47,9 +47,10 @@ title: Calendar
 | Wednesday, November 10 | Intersections of ideals. Resultants | 3.6 | [Nov 10](https://drive.google.com/file/d/1xQRX0IaEIxUbgGujF_4M7rYdSKj4tA9a/view?usp=sharing) | Homework 8 |
 | Friday, November 12 | Resultants, discriminants | 3.6 | [Nov 12](https://drive.google.com/file/d/1uF7vFi67_7qYkkywdZDeuftvJA-MJOyV/view?usp=sharing) |  |
 | ---
-| Wednesday, November 17 | | | | Homework 9 |
-| Friday, November 19 | | | | Term paper second draft |
+| Wednesday, November 17 | Discriminants. Nullstellensatz | 4.1 | [Nov 17](https://drive.google.com/file/d/1yRoOfVD2kKRiaDQat8DsLOUnvVfWnObH/view?usp=sharing) | Homework 9 |
+| Friday, November 19 | | | | |
 | ---
+| Tuesday, November 23 | | | | Term paper second draft |
 | Wednesday, November 24 | Thanksgiving Holiday. No class |
 | Friday, November 26 | Thanksgiving Holiday. No class |
 | ---
