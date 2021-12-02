@@ -54,7 +54,7 @@ title: Calendar
 | Wednesday, November 24 | Thanksgiving Holiday. No class |
 | Friday, November 26 | Thanksgiving Holiday. No class |
 | ---
-| Wednesday, December 1 | Strong Nullstellensatz | 4.2 | [Dec 1](https://drive.google.com/file/d/1-x3VXFKv9SY5GPAcqRtXJ8SvHRxb05fc/view?usp=sharing) | |
+| Wednesday, December 1 | Hilbert's Nullstellensatz | 4.2 | [Dec 1](https://drive.google.com/file/d/1-x3VXFKv9SY5GPAcqRtXJ8SvHRxb05fc/view?usp=sharing) | |
 | Friday, December 3 |
 | ---
 | Wednesday, December 8 |
