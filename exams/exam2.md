@@ -146,10 +146,10 @@ the extra time is for safety, in case of delay or technical difficulties.
 Available meeting times are:
 
 
-| Monday, December 13 | tba |
-| Tuesday, December 14 | tba |
-| Wednesday, December 15 | tba |
-| Thursday, December 16 | tba |
+| Monday, December 13 | 9:30-11:00am |
+| Tuesday, December 14 | 11:00am-2:30pm |
+| Wednesday, December 15 | 11:00am-2:30pm |
+| Thursday, December 16 | 9:30am-12:00pm, 12:30pm-2:30pm |
 
 You can reserve an exam time with a
 [Google Calendar appointment](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUxMOE5iZlhHc2dMfGRlZmF1bHR8NjI5MDgyNTcxYWExZGRhZjJhMDY1Y2UyYzI2YjEzODM).
