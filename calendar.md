@@ -57,8 +57,7 @@ title: Calendar
 | Wednesday, December 1 | Hilbert's Nullstellensatz | 4.2 | [Dec 1](https://drive.google.com/file/d/1-x3VXFKv9SY5GPAcqRtXJ8SvHRxb05fc/view?usp=sharing) | |
 | Friday, December 3 | Ideal-Variety Correspondence | 4.3 | [Dec 3](https://drive.google.com/file/d/1007UioS9QhqxggK6MxEIYc27U0PEQWbs/view?usp=sharing) | |
 | ---
-| Wednesday, December 8 |
-| Friday, December 10 | Review |
+| Wednesday, December 8 | Operations on ideals and varieties | | [Dec 8](https://drive.google.com/file/d/107OGkEivAApkZsJsDxocBuqLvx2bX-qf/view?usp=sharing) | |
 | Friday, December 10 | Last day of classes | | | Term paper final version |
 | ---
 | Wednesday, December 15 | Final exam, 12pm-2pm |
